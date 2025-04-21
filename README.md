@@ -43,40 +43,33 @@ A sleek, terminal-based Python Package Manager that lets you effortlessly:
 3. Update all outdated packages
 4. Remove specific packages
 5. Exit
+```
+
 🛠️ Installation
 Just clone the repo and run the script:
 
-bash
-Copy
-Edit
+```
 git clone https://github.com/yourusername/python-package-manager.git
 cd python-package-manager
 python3 Python_Package_Manager.py
+```
 ⚠️ Make sure you have colorama installed for enhanced colors on Windows:
-
-bash
-Copy
-Edit
+```
 pip install colorama
+```
 🧠 Requirements
 Python 3.6+
 
 pip installed and accessible from terminal
 
 📂 Project Structure
-bash
-Copy
-Edit
+```
 .
 ├── Python_Package_Manager.py  # Main script
 └── README.md                  # This file 😄
+```
 👨‍💻 Author
-Your Name
-💼 GitHub
-📧 your.email@example.com
-
-📜 License
-MIT License. See LICENSE for more info.
+Pranav
 
 🙌 Support
 If you find this useful, leave a ⭐ on the repo — it helps a lot!
