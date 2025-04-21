@@ -49,7 +49,7 @@ A sleek, terminal-based Python Package Manager that lets you effortlessly:
 Just clone the repo and run the script:
 
 ```
-git clone https://github.com/yourusername/python-package-manager.git
+git clone https://github.com/Pranav-Game-Dev/Python-Package-Manager.git
 cd python-package-manager
 python3 Python_Package_Manager.py
 ```
