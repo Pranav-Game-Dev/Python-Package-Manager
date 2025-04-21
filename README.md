@@ -45,6 +45,8 @@ A sleek, terminal-based Python Package Manager that lets you effortlessly:
 5. Exit
 ```
 
+---
+
 ## 🛠️ Installation
 Just clone the repo and run the script:
 
@@ -68,6 +70,9 @@ pip installed and accessible from terminal
 ├── Python_Package_Manager.py  # Main script
 └── README.md                  # This file 😄
 ```
+
+---
+
 ## 👨‍💻 Author : Pranav
 
 ## 🙌 Support If you find this useful, leave a ⭐ on the repo — it helps a lot!
