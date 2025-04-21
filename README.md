@@ -1,7 +1,3 @@
-Here's a polished, GitHub-ready `README.md` for your **Python Package Manager** project. It includes emojis, markdown formatting, and engaging sections to make the repo stand out:
-
----
-
 ```markdown
 # 🐍 Python Package Manager
 
